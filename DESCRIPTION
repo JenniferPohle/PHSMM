@@ -1,0 +1,11 @@
+Package: PHSMM
+Type: Package
+Title: Penalised maximum likelihood estimation for hidden semi-Markov models
+Version: 1.0
+Date: 2021-01-18
+Author: Jennifer Pohle
+Maintainer: Jennifer Pohle <jennifer.pohle@uni-bielefeld.de>
+Description: Provides tools for penalised maximum likelihood estimation of hidden semi-Markov models (HSMMs) with flexible state dwell-time distributions. These include functions for model fitting, model checking and state-decoding. The package considers HSMMs for univariate time series with state-dependent gamma, normal, Poisson or Bernoulli distributions.
+License: GPL-3
+Imports: Rcpp (>= 1.0.5)
+LinkingTo: Rcpp, RcppArmadillo
