@@ -4,7 +4,7 @@ An R package which provides tools for penalised log-likelihood estimation of hid
 # Install from Github
 To install the package from Github:
 ```
-install.packages(c("Rcpp","RcppArmadillo""devtools"))
+install.packages(c("Rcpp","RcppArmadillo","devtools"))
 library(devtools)
 install_github("JenniferPohle/PHSMM")
 ```
