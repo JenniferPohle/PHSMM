@@ -6,5 +6,5 @@ To install the package from Github:
 ```
 install.packages(c("Rcpp","RcppArmadillo","devtools"))
 library(devtools)
-install_github("JenniferPohle/PHSMM")
+install_github("JenniferPohle/PHSMM",ref="v1.0")
 ```
