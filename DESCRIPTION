@@ -7,5 +7,6 @@ Author: Jennifer Pohle
 Maintainer: Jennifer Pohle <jennifer.pohle@uni-bielefeld.de>
 Description: Provides tools for penalised maximum likelihood estimation of hidden semi-Markov models (HSMMs) with flexible state dwell-time distributions. These include functions for model fitting, model checking and state-decoding. The package considers HSMMs for univariate time series with state-dependent gamma, normal, Poisson or Bernoulli distributions.
 License: GPL-3
-Imports: Rcpp (>= 1.0.5)
+Imports: Rcpp
 LinkingTo: Rcpp, RcppArmadillo
+LazyData: true
