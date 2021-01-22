@@ -9,4 +9,5 @@ Description: Provides tools for penalised maximum likelihood estimation of hidde
 License: GPL-3
 Imports: Rcpp
 LinkingTo: Rcpp, RcppArmadillo
+Depends: R (>= 4.0.0)
 LazyData: true
